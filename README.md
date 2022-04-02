@@ -10,3 +10,5 @@
 ![codiga grade](https://api.codiga.io/project/32443/status/svg)
 
 [![Analysis](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Analysis.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Analysis.yml)
+
+[![Build_CI - Linux](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Linux.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Linux.yml)
