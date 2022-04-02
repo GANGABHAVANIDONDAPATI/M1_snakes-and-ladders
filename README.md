@@ -20,3 +20,5 @@
 [![CodeQuality-Valgrind](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Valgrind.yml)
 
 [![Git Inspector](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/gitinsepector.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/gitinsepector.yml)
+
+[![Unit Testing - Unity](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/unit-test.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/unit-test.yml)
