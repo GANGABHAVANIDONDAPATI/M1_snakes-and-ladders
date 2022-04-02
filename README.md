@@ -16,3 +16,5 @@
 [![Bulid CI - windows](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Windows.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Windows.yml)
 
 [![Code Quality - Cppcheck](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/c-cpp.yml)
+
+[![CodeQuality-Valgrind](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Valgrind.yml)
