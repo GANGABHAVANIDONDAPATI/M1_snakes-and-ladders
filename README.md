@@ -18,3 +18,5 @@
 [![Code Quality - Cppcheck](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/c-cpp.yml)
 
 [![CodeQuality-Valgrind](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/Valgrind.yml)
+
+[![Git Inspector](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/gitinsepector.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M1_snakes-and-ladders/actions/workflows/gitinsepector.yml)
